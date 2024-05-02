@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036411165698",
+    "project_id": "memories-feddb",
+    "storage_bucket": "memories-feddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036411165698:android:0aaff7b4cefd2b3db35b1b",
+        "android_client_info": {
+          "package_name": "com.example.memories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036411165698-2p1kddop1gdk0mhb7b5jj7jubkbvrj62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memories",
+            "certificate_hash": "789152f1da7ec2996ebcd8a4aea3e2984e0268e5"
+          }
+        },
+        {
+          "client_id": "1036411165698-1apelckvo4fo87brciejl7jk07og5188.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6khQvAuhBJ1NU3r3mZkNhQX9lKf1fWac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036411165698-1apelckvo4fo87brciejl7jk07og5188.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
